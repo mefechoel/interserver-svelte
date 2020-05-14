@@ -1703,10 +1703,10 @@ internal-slot@^1.0.2:
     has "^1.0.3"
     side-channel "^1.0.2"
 
-interserver@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/interserver/-/interserver-0.1.1.tgz#262bda3c2db2747afd996ff37cacc1bd111139ea"
-  integrity sha512-A29psT7RE2uVGLgEoOLipZeK7rUluRj2KPAC29JDHEut8SUvsNz8erenrsiec5auJf2ckJqOKQ1rt7Uf5sDX9w==
+interserver@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/interserver/-/interserver-0.1.2.tgz#445c2515d20f0a3727c45ee270208baa79bbae22"
+  integrity sha512-KNBaf3TW1Ia6OQMMvTDknqrQson4DpsyENkpYC8eBZhtpeNN20uBqM6QybhLd2MSU8jySCLwMAQ9LKVqUMP2yA==
 
 invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"

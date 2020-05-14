@@ -31,7 +31,7 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "interserver": "^0.1.1"
+    "interserver": "^0.1.2"
   },
   "peerDependencies": {
     "svelte": "3.x"
